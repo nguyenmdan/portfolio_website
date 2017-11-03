@@ -1,0 +1,37 @@
+body{
+
+}
+
+header{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+hr{
+	border-color: #7d97ad;
+}
+
+.header-img img{
+	height: 80px;
+	width: 80px;
+}
+.header-text{
+	color: #2d3c49;
+	float: right;
+	text-align: right;
+}
+
+#header-name{
+	font-family: Roboto;
+	font-size: 3em;
+}
+
+#header-info{
+	font-family: Noto Sans;
+	font-size: 1em;
+}
+
+.sidebar{
+	width: 15%;
+	float:left;
+}

@@ -1,0 +1,22 @@
+body{
+
+}
+
+.header-img img{
+	height: 0px;
+	width: 0px;
+}
+.header-text{
+	float: left;
+	text-align: left;
+}
+
+#header-name{
+	font-family: Roboto;
+	font-size: 1em;
+}
+
+#header-info{
+	font-family: Noto Sans;
+	font-size: .5em;
+}
